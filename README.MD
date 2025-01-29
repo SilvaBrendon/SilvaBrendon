@@ -26,6 +26,6 @@ Bem-vindo ao meu portfólio! Aqui você encontrará uma coleção de projetos qu
 - **Automação:** Selenium  
 
 ## 👋🏻 Conecte-se comigo  
-- **LinkedIn:** [https://www.linkedin.com/in/brendon-lucas-471b99145/](#)  
-- **E-mail:** [brendon.lucas@outlook.com.br](#)  
+- [LinkedIn][https://www.linkedin.com/in/brendon-lucas-471b99145/](#)  
+- [E-mail][brendon.lucas@outlook.com.br](#)  
 
