@@ -10,7 +10,7 @@ Me chamo Brendon e sou Cientista de Dados com experiência em:
 ## 💻 O que eu faço  
 - Consulto e analiso dados usando **SQL** e **Python**  
 - Desenvolvo dashboards interativos e relatórios com **PowerBI** e **Excel**  
-- Construo modelos de **machine learning** com **Scikit-Learn** e **Pandas**  
+- Construo modelos de **machine learning** com **Scikit-Learn** e **PyTorch**  
 - Automatizo pipelines e fluxos de trabalho com **Python** e **Selenium**  
 - Integro e gerencio bancos de dados usando **PostgreSQL** e **SQL**  
 
